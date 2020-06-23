@@ -1,1 +1,1 @@
-# MNIST-siamese-network
+# MNIST-siamese--neural-network
