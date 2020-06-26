@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MNIST-siamese-network
 
 Trains a Siamese Neural Network on pairs of digit from the MNIST dataset.
@@ -10,3 +11,6 @@ http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf
 
 It gets 97.96% test accuracy almost 98% :)
 >Built this model out of boredom :D
+=======
+# MNIST-siamese--neural-network
+>>>>>>> 2197d8d5adfec0a45c0ae4146db07df72a58156a
